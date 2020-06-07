@@ -16,7 +16,7 @@ An innovative digital mart designed in the context of COVID-19.
 - What's the problem?
 - How technology can help?
 - The idea
-2. [Demo]
+2. Demo
 3. [The Architecture](#the-architecture)
 4. [Long Description](#long-description)
 5. [User Flow Diagram](#user-flow-diagram)
