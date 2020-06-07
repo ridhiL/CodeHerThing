@@ -13,8 +13,8 @@ An innovative digital mart designed in the context of COVID-19.
 ## Contents
 
 1. [Short Description](#short-description)
-- What's the problem? (#what's-the-problem)
-- How technology can help? (#how-technology-can-help)
+- What's the problem? (#what's-the-problem-?)
+- How technology can help? (#how-technology-can-help-?)
 - [The idea](#the-idea)
 2. [Demo] (#demo)
 3. [The Architecture](#the-architecture)
@@ -57,7 +57,7 @@ The goal is to provide a mobile application, that serves as the basis for develo
 
 ## The Architecture
 
-![Good2Go architecture diagram] (/images/Architecture.PNG)
+![Good2Go architecture diagram](/images/Architecture.PNG)
 
 This solution starter idea combines a chat interface (Watson Assistant), data storage (Cloudant) to hold the status of supplies available with the suggestion of locally produced goods, slot booking services with real-time information to get users the information they need. 
 1. The Recipient launches the mobile app and can access information across multiple services.
@@ -80,13 +80,13 @@ displays a map showing locally where they can find what they are looking for.
 
 ## User Flow Diagram
 
-![Good2Go User Flow Diagram] (/images/User Flow Diagram.PNG)
+![Good2Go User Flow Diagram](/images/User Flow Diagram.PNG)
 
 ## Project Roadmap
 
-![Good2Go Project Roadmap]
-(/Roadmap/Roadmap 2.png)
-(/Roadmap/Roadmap2 (1).png)
+![Good2Go Project Roadmap 1](/Roadmap/Roadmap 2.png)
+
+![Good2Go Project Roadmap 2](/Roadmap/Roadmap2 (1).png)
 ## Built With
 
 - IBM Cloudant
