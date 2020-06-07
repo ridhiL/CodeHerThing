@@ -52,6 +52,8 @@ The goal is to provide a mobile application, that serves as the basis for develo
 - It would also give our “Local Suppliers” a platform to publicize locally made products, and “Consumers” will be getting alternate options for all the foreign products. This will be a small step forward, to make #VocalForLocal a great success.
 
 ## Demo
+<a href="https://youtu.be/nPOH5I4I2es" target="_blank"><img src="https://img.youtube.com/vi/nPOH5I4I2es/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="400" height="300" border="5" /></a>
 
 https://youtu.be/nPOH5I4I2es
 
