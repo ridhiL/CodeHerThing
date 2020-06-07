@@ -76,8 +76,6 @@ This solution starter idea combines a chat interface (Watson Assistant), data st
 A Supplier (who may be a regular resident, a small business, a voluntary organization, etc.) that has food, supplies, resources, or other essentials they can opens the mobile application and fills out a brief form that indicates what they have, there store slot availability for pick-up and locally produced goods details. This information is then stored in a database in the IBM Cloud. 
 
 A Recipient, who needs food, supplies, resources, or other essentials, opens the mobile application and can use the chat interface to locate supplies near them. For instance, they might type "Where can I find bread?" or "Can I collect my goods from the store?" The mobile application then accesses the database (after first understanding the question via Watson Assistant) and then user can book slot for pick up or opt for delivery. Also, user can look for local option for any product and its details. 
-displays a map showing locally where they can find what they are looking for.
-
 
 
 ## User Flow Diagram
@@ -96,6 +94,5 @@ displays a map showing locally where they can find what they are looking for.
 - IBM Watson Assistant
 - Node Js
 - React Native
-- IBM Cloud App Service
 - Android Studio
 
